@@ -20,9 +20,6 @@ Python, Django, Web3, task automation, Docker, and Data Analysis.
 ## 📫 How to reach me
 [govindhede1408@gmail.com](mailto:govindhede1408@gmail.com)
 
-## ⚡ Fun fact
-(Include a fun fact here, e.g., "I love hiking and playing chess.")
-
 ## 🌐 Socials
 - [LinkedIn](https://www.linkedin.com/in/govindhede)
 - [Twitter](https://x.com/GovindHede)
